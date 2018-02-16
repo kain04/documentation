@@ -86,6 +86,7 @@
 
 ![exclusive gateway divergent](../_static/images/administration/bpm/gateway-exclusive-divergent.png)
 
+
 ![exclusive gateway convergent](../_static/images/administration/bpm/gateway-exclusive-convergent.png)
 
 #### Включающий шлюз
@@ -142,3 +143,4 @@
 * Обновить запись процесса - может использоваться для назначения процесса конкретному пользователю или команде;
 * Ссылка на другую запись - связывает целевую запись с указанной записью;
 * Отменить связь с другой записью - отменить целевую запись из указанной записи;
+f
